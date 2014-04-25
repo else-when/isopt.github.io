@@ -4,7 +4,12 @@ title: In Seach of Personlized Time
 ---
 
 <div id="home">
-    {% markdown project-desc.md %}
+
+  {% capture desc %}
+    {% include project-desc.md %}
+  {% endcapture %}
+  {{ desc | markdownify }}
+
     <div class="updates">
       <h2>Project Updates</h2>
       <ul class="posts">
