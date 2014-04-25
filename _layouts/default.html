@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <div id="banner">
+              <img src="{{ site.baseurl }}images/sliderule.png">
+            </div>
+          </div>
+
+          <div class="content">
+            {{ content }}
+          </div>
+
+          <div class="footer">
+                <div class="left">
+                  <strong>
+                    <a href="http://taeyoonchoi.com/" target="_blank">Taeyoon Choi</a> &amp; <a href="http://eroonkang.com/" target="_blank">E Roon Kang</a>
+                  </strong>
+                  <br>
+                  2014-2015 Art + Technology Artist Project, LACMA
+                </div>
+                <div class="right">
+                  For more information, please contact <a href="mailto:">someone(at)something.com</a>
+                </div>
+          </div>
+        </div>
+
+    </body>
+</html>
