@@ -1,9 +1,16 @@
-The contemporary world operates in terms of global synchronization. From global finance, to cloud-based data storage, to the many day-to-day functions of the smartphone, we live in a moment where the semblance of simultaneity is a defining characteristic of value.
 
-This state of affairs is not entirely new. At least since Isaac Netwon's conceptualization of [Absolute Time](http://en.wikipedia.org/wiki/Absolute_time_and_space) (though arguably for far longer), popular perceptions have relied on the idea that time is a fixed medium in which events take place, rather than a dynamic contributing factor to those events. In this view, time becomes the backdrop for all that happens: homogeneous, unchanging, and holding supremacy over objects and space. Today's technologies accelerate this perspective, and its ubiquity often masks it from questioning. When this perspective is dominant, human experience as it is quantified gains currency at the expense of human experience as it is felt.
+*Elsewhen* is an attempt to live unreal time in real-time world. 
 
-With TITLETK, we endeavor to shift the tides of global synchronization in order to make space for subjective temporal perception. By creating alternative flows of time in a distributed network of temporalities, users' personal times will be given new leverage against master time.
+The contemporary world operates in terms of global synchronization. From global finance, to cloud-based data storage, to the many day-to-day functions of the smartphone, we live in an era where the semblance of simultaneity is a defining characteristic of value.
 
-*TITLETK is an attempt to live unreal time in real-time world.*
+Popular perceptions of time have often been based in the idea that it is a fixed medium in which events take place, rather than a dynamic contributing factor to those events. In this view, first formalized as "<a href="http://en.wikipedia.org/wiki/Absolute_time_and_space">Absolute Time</a> by Isaac Newton, time is reduced to the backdrop for all that happens: homogeneous, unchanging, and holding supremacy over objects and space. 
 
-Through research and collaborations with scientists, artists, and technologists, we will develop a new technology proposing an alternative standard of measurement for formalizing desynchronized time. It will be formed as a challenge to Greenwich Mean Time: the geopolitical standard which divides the world into 24 time zones. Our temporality framework will facilitate desynchronization from the prescribed time zone, and will be characterized by its flexibility and functional basis in shared sentience.
+Today's technologies accelerate this belief, and its ubiquity often masks it from questioning. As this perspective gains dominance, human experience as *it is quantified* gains currency at the expense of human experience as *it is felt*.
+
+With *Elsewhen*, we endeavor to shift the tides of global synchronization. We are setting out to leverage subjective temporal perception against master time, facilitating a multitude of flows of time rather than bolstering the universal standard.
+
+Through research and collaboration with scientists and technologists, we will propose an alternative standard of measurement that will give form to personal, intuitive, asynchronous time. Characterized by its flexibility and functional basis in shared sentience, our framework will facilitate desynchronization from prescribed chronological standards, such as Greenwich Mean Time, as well as geopolitical standards.
+
+However, desynchronization does not necessarily mean isolation. Rather, we are also interested in investigating how time is communally negotiated, and how to give this communion form.
+
+By intervening in the dynamics between universal, personal, and collective temporalities, we are reconsidering what constitutes "the present." In changing how we formalize time, one could stretch the present or – perhaps unfathomably – compress it. "Now," then, becomes a malleable space in which one can reorient the relationship between memory, action, and possible futures. By reconfiguring the relation between time and space, your presence can take form elsewhere, or else*when*, through another sense of time.
