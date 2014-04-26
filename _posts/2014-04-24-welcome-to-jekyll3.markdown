@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll-3!"
-date:   2014-04-24 12:15:24
-categories: jekyll update
+title:  "4/21"
+date:   2014-04-21 16:15:24
+categories: meeting
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+E Roon, Taeyoon and Nick met on 4/21 3~6pm in 155 Rivington street, New York City. 
 
-Lorem ipsum dolor sit amet, consectetur [adipisicing elit](#), sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://farm6.staticflickr.com/5467/14021154681_43b8ce7c0d_z.jpg">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Some drawings by Taeyoon. 
+<img src="https://farm3.staticflickr.com/2930/14044345473_22f739f365_z.jpg">
+<img src="https://farm3.staticflickr.com/2896/14044344503_32258634dd_z.jpg">
+More pictures are <a href="https://www.flickr.com/photos/80913365@N04/sets/
+72157644382832403">here</a>.
+<img src="https://farm3.staticflickr.com/2912/14001047196_81550c0379_z.jpg">
+This is probably from another day, we were thinking of an image for the project. 
