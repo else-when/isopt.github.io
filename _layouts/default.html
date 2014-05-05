@@ -1,40 +1,56 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+  {% include head.html %}
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  <body>
 
-    </head>
-    <body>
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-          </div>
+    <div class="container content tk-adobe-text-pro">
+      <div class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">{{ site.title }}</a>
+        </h3>
+        <h4>{{ site.tagline }}</h4>
+        <div class="nav">
+          <ul>
+            {% if page.url == '/' %}
+              <li><a href="/" class="current">Current</a></li>
+            {% else %}
+              <li><a href="/">Current</a></li>
+            {% endif %}
 
-          <div class="content">
-            {{ content }}
-          </div>
+            {% if page.url == '/all-posts/' %}
+              <li><a href="/all-posts" class="current">History</a></li>
+            {% else %}
+              <li><a href="/all-posts">History</a></li>
+            {% endif %}
+<!--
+            {% if page.url == '/about/' %}
+              <li><a href="/about" class="current">About</a></li>
+            {% else %}
+              <li><a href="/about">About</a></li>
+            {% endif %}
+-->
+            {% if page.url == '/people/' %}
+              <li><a href="/people" class="current">People</a></li>
+            {% else %}
+              <li><a href="/people">People</a></li>
+            {% endif %}
 
-          <div class="footer">
-                <div class="left">
-                  <strong>
-                    <a href="http://taeyoonchoi.com/" target="_blank">Taeyoon Choi</a> &amp; <a href="http://eroonkang.com/" target="_blank">E Roon Kang</a>
-                  </strong>
-                  <br>
-                                 </div>
-                <div class="right">
-                   2014-2015 <a href="http://www.lacma.org/lab">Art + Technology Lab</a> project at Los Angeles County Museum of Art
-                </div>
-          </div>
+            <li><a href="http://elsewhen.info" class="outer" target="_blank">elsewhen.info</a></li>
+
+          </ul>
         </div>
+      </div>
 
-    </body>
+      {{ content }}
+
+      <div class="footer">
+        <p>Project by <a href="http://taeyoonchoi.com" target="_blank">Taeyoon Choi</a> & <a href="http://eroonkang.com" target="_blank">E Roon Kang</a>.<br>
+          2014–2015, Art + Technology Project, <a href="http://www.lacma.org/LAB" target="_blank">Los Angeles County Museum of Art</a></p>
+        <p class="elsewhere"><em>Project Website: <a href="http://elsewhen.info/" target="_blank">elsewhen.info</a></em></p>
+      </div>
+    </div>
+
+  </body>
 </html>
