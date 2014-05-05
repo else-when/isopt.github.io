@@ -8,7 +8,7 @@ With the news of our grant, I ordered some books that I've been wantint to read.
 
 <img src="https://farm6.staticflickr.com/5271/14024728195_9822de79cc_z.jpg">
 
-And here are some reading notes from Heidegger's Being and Time. 
+And here are some reading notes from Heidegger's Being and Time.
 
 <img src="https://farm3.staticflickr.com/2897/14001686426_3b9018b513_z.jpg">
 
@@ -22,4 +22,4 @@ And here are some notes from Stiegler's What makes life worth living?
 
 <img src="https://farm6.staticflickr.com/5084/14025321694_974ca973b5_z.jpg">
 
-I've asked Nick to read Stiegler's Technics and Time 1. We will be posting reading notes and conversations shortly. 
+I've asked Nick to read Stiegler's Technics and Time 1. We will be posting reading notes and conversations shortly.
