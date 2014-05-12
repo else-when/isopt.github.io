@@ -5,7 +5,7 @@ title: People
 
 ###Taeyoon Choi
 
-Taeyoon Choi makes art with electronic circuits, drawing, storytelling and interventions in public space. Taeyoon often collaborates with other artists and activists to realize socially engaged projects and participatory experiences. He has served as a committee member for The Public School New York and fellow at Eyebeam Art + Technology Center. He is the co-founder of [School for Poetic Computation](http://sfpc.io/), an artist run school with the motto “More Poems, Less Demos” based in New York City, where he teaches electronics and other topics. Recently, he has curated exhibitions and education programs for the [Anyang Public Art Festival](http://apap.or.kr/en/intro) in South Korea, where he directs Making Lab, a makerspace focusing on artist-community collaboration. [taeyoonchoi.com](http://taeyoonchoi.com)
+Taeyoon Choi makes art with electronic circuits, drawing, storytelling and interventions in public space. Taeyoon often collaborates with other artists and activists to realize socially engaged projects and participatory experiences. He has served as a committee member for The Public School New York and fellow at Eyebeam Art + Technology Center. He is the co-founder of [School for Poetic Computation](http://sfpc.io/), an artist run school with the motto “More Poems, Less Demos” based in New York City, where he teaches electronics and other topics. Recently, he has curated exhibitions and education programs for the [Anyang Public Art Festival](http://apap.or.kr/en/intro) in South Korea, where he directs Making Lab, a makerspace focusing on artist-community collaboration. Taeyoon lives in Brooklyn. [taeyoonchoi.com](http://taeyoonchoi.com)
 
 ---
 
